@@ -37,4 +37,10 @@ Kamp sürecinde yazılan kaynak kodlar ve ödev çalışmalarım.
 ![5 1-ecommerce](https://user-images.githubusercontent.com/57464067/117744359-30eda180-b211-11eb-9d73-a0ff9956b7be.png)
 # Day 6
 ## 6)northwind
+![ss_springinitializr](https://user-images.githubusercontent.com/57464067/118120831-2a218300-b3f9-11eb-8b28-78c5eb3d350b.png)
+
 ![6](https://user-images.githubusercontent.com/57464067/117744371-34812880-b211-11eb-8fb2-3950d90eedaa.png)
+## 6.1)VeritabanıTasarımıKursu
+![senaryo](https://user-images.githubusercontent.com/57464067/118120832-2aba1980-b3f9-11eb-9ac1-1a9e93d8c3c9.png)
+
+![tablolar](https://user-images.githubusercontent.com/57464067/118120828-28f05600-b3f9-11eb-88d1-b8afc7c59ce5.png)
