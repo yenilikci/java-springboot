@@ -41,6 +41,12 @@ Kamp sürecinde yazılan kaynak kodlar ve ödev çalışmalarım.
 
 ![6](https://user-images.githubusercontent.com/57464067/117744371-34812880-b211-11eb-8fb2-3950d90eedaa.png)
 ## 6.1)VeritabanıTasarımıKursu
+- Soyutlama ve miras alma odaklı tasarım yapıldı.
+- Single Responsibility ve Open Closed prensiplerine uyuldu.
+- Primary key tabloların, foreign key tablolar hakkında bilgi tutmamasına dikkat edildi.
+- Bir daha tekrarlanmaması gereken veriler için unique key verildi.
+- Nesnel bir veritabanı tasarımı gerçekleştirilmiş oldu.
+
 ![senaryo](https://user-images.githubusercontent.com/57464067/118120832-2aba1980-b3f9-11eb-9ac1-1a9e93d8c3c9.png)
 
 ![tablolar](https://user-images.githubusercontent.com/57464067/118120828-28f05600-b3f9-11eb-88d1-b8afc7c59ce5.png)
