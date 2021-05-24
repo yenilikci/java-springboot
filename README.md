@@ -60,3 +60,12 @@ Kamp sürecinde yazılan kaynak kodlar ve ödev çalışmalarım.
 - Nesnel bir veritabanı tasarımı gerçekleştirilmiş oldu.
 
 ![Database](https://user-images.githubusercontent.com/57464067/119281965-70b87e00-bc40-11eb-9e11-81e7f1558f9d.png)
+
+## 6.3)HRMS
+- Katmanlar yazıldı.
+
+![hrms_project](https://user-images.githubusercontent.com/57464067/119282318-e83add00-bc41-11eb-94b4-0ac7710d3007.png)
+- Sistemde bulunan genel iş pozisyonlarını listeleyecek api yazıldı.
+
+![ss_basarili](https://user-images.githubusercontent.com/57464067/119282320-eb35cd80-bc41-11eb-8c37-56e9a5525f8b.png)
+
