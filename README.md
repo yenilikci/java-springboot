@@ -52,6 +52,8 @@ Kamp sürecinde yazılan kaynak kodlar ve ödev çalışmalarım.
 ![tablolar](https://user-images.githubusercontent.com/57464067/118120828-28f05600-b3f9-11eb-88d1-b8afc7c59ce5.png)
 
 ## 6.2)HRMS-PostgreSQL
+
+- Veritabanı ismi hrms olarak belirlendi.
 - pgAdmin4 ile oluşturuldu.
 - Single Responsibility ve Open Closed prensiplerine uyuldu.
 - Tüm istekler yerine getirildi. (req1, req2, req3)
