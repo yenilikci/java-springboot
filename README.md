@@ -69,3 +69,45 @@ Kamp sürecinde yazılan kaynak kodlar ve ödev çalışmalarım.
 
 ![ss_basarili](https://user-images.githubusercontent.com/57464067/119282320-eb35cd80-bc41-11eb-8c37-56e9a5525f8b.png)
 
+### 7)northwind-2
+swagger implementasyonu için https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api adresine gidelim
+
+3 ve 5.1 kısımlı bağımlılıkları pom.xml'e ekleyelim.
+
+    		<dependency>
+    			<groupId>io.springfox</groupId>
+    			<artifactId>springfox-swagger2</artifactId>
+    			<version>2.9.2</version>
+    		</dependency>
+    		<dependency>
+    			<groupId>io.springfox</groupId>
+    			<artifactId>springfox-swagger-ui</artifactId>
+    			<version>2.9.2</version>
+    		</dependency>
+        
+sonra 4.1 kısımlı kodu main fonksiyonumuzun altına ekleyelim
+    
+    @Bean
+    	public Docket api() {
+    		return new Docket(DocumentationType.SWAGGER_2)
+    				.select()
+    				.apis(RequestHandlerSelectors.basePackage("kodlamaio.northwind"))
+    				.build();
+    	}
+     
+importlarımızı yapmayı unutmayalım
+     
+en yukarıya @EnableSwagger2 anotasyonumuzu ekleyelim
+
+### swagger-ui.html
+![swagger ui html](https://user-images.githubusercontent.com/57464067/126077899-79132216-165c-470b-a23b-5f1c41adb8c3.png)
+
+### /api/products/getall
+![product-getall](https://user-images.githubusercontent.com/57464067/126077924-50ca80a7-787f-46ac-8b07-3a94cfa0135b.png)
+![product-getall-2](https://user-images.githubusercontent.com/57464067/126077927-19fbbd84-a0f7-4fc7-88ef-6fff1898fc07.png)
+
+### /api/products/add
+![products-add](https://user-images.githubusercontent.com/57464067/126077938-a64f4393-2366-4f2d-8dde-83f9d95c0c18.png)
+![products-add-2](https://user-images.githubusercontent.com/57464067/126077942-82074528-c31d-4320-a75b-b6790d4a1f89.png)
+
+
