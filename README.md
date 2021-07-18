@@ -110,4 +110,18 @@ en yukarıya @EnableSwagger2 anotasyonumuzu ekleyelim
 ![products-add](https://user-images.githubusercontent.com/57464067/126077938-a64f4393-2366-4f2d-8dde-83f9d95c0c18.png)
 ![products-add-2](https://user-images.githubusercontent.com/57464067/126077942-82074528-c31d-4320-a75b-b6790d4a1f89.png)
 
+## 8)northwind-3
+### /api/products/getAllByPage
+![getallbypage](https://user-images.githubusercontent.com/57464067/126079636-9f7817b5-cbe8-4c61-8724-df7a44a86507.png)
 
+### /api/products/getAllDesc
+![getalldesc](https://user-images.githubusercontent.com/57464067/126079638-5336b679-d428-4772-b8ad-490b6ff5635b.png)
+
+### /api/products/getByProductName
+![getbyproductname](https://user-images.githubusercontent.com/57464067/126079725-24ecbd95-3534-4e87-8b40-8cf16eb5c08e.png)
+
+### /api/products/getByProductNameAndCategoryId
+![getbyproductnameandcategoryid](https://user-images.githubusercontent.com/57464067/126079774-e335bfe4-b5ee-48e8-a0bb-dd17e01c1133.png)
+
+### /api/products/getByProductNameContains
+![getbyproductnamecontains](https://user-images.githubusercontent.com/57464067/126079782-a80ddbb9-e0f1-41aa-a693-de95d6673991.png)
