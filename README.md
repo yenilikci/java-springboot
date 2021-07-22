@@ -125,3 +125,10 @@ en yukarıya @EnableSwagger2 anotasyonumuzu ekleyelim
 
 ### /api/products/getByProductNameContains
 ![getbyproductnamecontains](https://user-images.githubusercontent.com/57464067/126079782-a80ddbb9-e0f1-41aa-a693-de95d6673991.png)
+
+## 9)northwind-4
+### /api/products/getProductWithCategoryDetails
+![api-products-getProductWithCategoryDetails](https://user-images.githubusercontent.com/57464067/126639076-11ba27d8-a124-4c75-aee9-d2f250d21e51.png)
+
+### /api/users/add
+![api-users-add](https://user-images.githubusercontent.com/57464067/126639145-9d31f928-9c2e-4f66-991b-50db2cb8733c.png)
